@@ -1,1 +1,1 @@
-# FinProj
+# FinalProject
