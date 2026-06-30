@@ -38,8 +38,5 @@
 
 ## 🚀 გაშვების ინსტრუქცია (Installation)
 
-პროექტი არ საჭიროებს ლოკალური სერვერის ან დამატებითი პაკეტების (npm) დაყენებას. 
+- მიყევით About-ში არსებულ ლინკს
 
-1. გადმოწერეთ რეპოზიტორია:
-```bash
-git clone [https://github.com/yourusername/the-abyss.git](https://github.com/yourusername/the-abyss.git)
